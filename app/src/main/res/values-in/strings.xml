@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Pengaturan</string>
+    <string name="share">Bagikan</string>
+    <string name="detail">Detail</string>
+    <string name="appbar_search">Cari Film</string>
+    <string name="appbar_upcoming">Akan Datang</string>
+    <string name="appbar_nowplaying">Sedang Diputar</string>
+    <string name="name_bar_detail">Detail Film</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="overview_film">Sinopsis Film</string>
+    <string name="date_release">Tanggal Rilis</string>
+    <string name="tanggal_rilis">Jumat, 27 November 2018</string>
+    <string name="err_load_failed">Data tidak dapat dimuat</string>
+    <string name="masukkan_nama_film">Pencarian ...</string>
+    <string name="pesan_daily">Catalogue movie merindukan anda</string>
+    <string name="pref_summary_lang">Pilih Bahasa</string>
+    <string name="pref_lang">Bahasa</string>
+    <string name="key_lang">key_lang</string>
+    <string name="pref_title_notifications">Notifikasi</string>
+    <string name="key_today_reminder">key_today_reminder</string>
+    <string name="summary_daily_reminder">Anda akan mendapatkan notifikasi harian setiap jam 8 pagi</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="key_release_reminder">key_release_reminder</string>
+    <string name="summary_release_reminder">Anda akan mendapatkan notifikasi harian film terbaru setiap jam 7 pagi</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+</resources>

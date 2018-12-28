@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_np"
+            android:icon="@drawable/ic_play_arrow_black"
+            android:title="@string/appbar_nowplaying" />
+        <item
+            android:id="@+id/nav_uc"
+            android:icon="@drawable/ic_update_black"
+            android:title="@string/appbar_upcoming" />
+
+        <item
+            android:id="@+id/nav_sm"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="@string/appbar_search" />
+
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@drawable/ic_star_black"
+            android:title="@string/appbar_favorite" />
+
+
+    </group>
+
+</menu>

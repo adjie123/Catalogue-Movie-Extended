@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Favorites Movie</string>
+
+    <string name="share">Share</string>
+    <string name="detail">Detail</string>
+    <string name="search_hint">Search</string>
+    <string name="judul_film">Movie Tittle</string>
+    <string name="name_bar_detail">Detail Movie</string>
+    <string name="overview_film">Overview Movie</string>
+    <string name="date_release">Date Release</string>
+    <string name="tanggal_rilis">Wednesday, 27 November 2018</string>
+    <string name="label_share">Share</string>
+    <string name="err_load_failed">Not Found</string>
+    <string name="masukkan_nama_film">Search ...</string>
+    <string name="appbar_favorite">Favorites</string>
+</resources>
